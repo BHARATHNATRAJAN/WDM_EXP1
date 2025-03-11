@@ -53,6 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+### Employee Data:
+![Screenshot 2025-02-24 183932](https://github.com/user-attachments/assets/62136e24-019d-4322-a0d5-911d6cf5ce18)
+
+### Weather Data:
+![Screenshot 2025-02-24 184747](https://github.com/user-attachments/assets/9feb97a1-dee0-4ce9-9f71-bbd89c44308f)
 
 
 
